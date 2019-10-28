@@ -10,7 +10,7 @@ The FreeClimb Java SDK will allow you to easily use the FreeClimb API in a Java 
 
 ### SDK Installation
 
-To include the SDK in your build, follow the instructions on [Jitpack](https://jitpack.io/#PersephonyAPI/java-sdk)
+To include the SDK in your build, follow the instructions on [Jitpack](https://jitpack.io/#PersephonyAPI/FreeClimb-Java-SDK)
 
 ## Testing your Installation
 
