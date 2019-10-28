@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>java-sdk</name>
-	<comment>Project java-sdk created by Buildship.</comment>
+	<name>FreeClimb-Java-SDK</name>
+	<comment>Project FreeClimb-Java-SDK created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
