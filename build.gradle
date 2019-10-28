@@ -8,8 +8,8 @@ apply plugin: 'maven'
 group = 'com.github.PersephonyAPI'
 // group = 'com.github.FreeClimbAPI'
 
-sourceCompatibility = 1.7 // java 7
-targetCompatibility = 1.7
+sourceCompatibility = 1.8 // java 7
+targetCompatibility = 1.8
 version = '1.0.0'
 
 repositories {
