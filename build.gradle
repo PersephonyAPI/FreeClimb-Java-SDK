@@ -5,7 +5,7 @@ plugins {
 apply plugin: 'java'
 apply plugin: 'maven'
 
-// group = 'com.github.FreeClimbAPI'
+group = 'com.github.PersephonyAPI'
 // group = 'com.github.FreeClimbAPI'
 
 sourceCompatibility = 1.7 // java 7
