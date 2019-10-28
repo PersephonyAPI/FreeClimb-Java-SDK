@@ -2,11 +2,11 @@
 
 The FreeClimb Java SDK will allow you to easily use the FreeClimb API in a Java application.
 
-[![Release](https://jitpack.io/v/PersephonyAPI/java-sdk.svg)](https://jitpack.io/#PersephonyAPI/java-sdk)
-[![Build Status](https://travis-ci.com/PersephonyAPI/java-sdk.svg?branch=master)](https://travis-ci.com/PersephonyAPI/java-sdk)
-[![Maintainability](https://api.codeclimate.com/v1/badges/5db37830ae23321e9150/maintainability)](https://codeclimate.com/github/PersephonyAPI/java-sdk/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/5db37830ae23321e9150/test_coverage)](https://codeclimate.com/github/PersephonyAPI/java-sdk/test_coverage)
-[Docs](https://jitpack.io/com/github/persephonyapi/java-sdk/latest/javadoc/)
+[![Release](https://jitpack.io/v/PersephonyAPI/FreeClimb-Java-SDK.svg)](https://jitpack.io/#PersephonyAPI/FreeClimb-Java-SDK)
+[![Build Status](https://travis-ci.com/PersephonyAPI/FreeClimb-Java-SDK.svg?branch=master)](https://travis-ci.com/PersephonyAPI/FreeClimb-Java-SDK)
+[![Maintainability](https://api.codeclimate.com/v1/badges/5db37830ae23321e9150/maintainability)](https://codeclimate.com/github/PersephonyAPI/FreeClimb-Java-SDK/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/5db37830ae23321e9150/test_coverage)](https://codeclimate.com/github/PersephonyAPI/FreeClimb-Java-SDK/test_coverage)
+[Docs](https://jitpack.io/com/github/persephonyapi/FreeClimb-Java-SDK/latest/javadoc/)
 
 ### SDK Installation
 
