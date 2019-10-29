@@ -15,6 +15,7 @@ before_script:
   - ./cc-test-reporter before-build
 script:
   - gradle cobertura
+  - jdk_switcher use oraclejdk8
 after_script:
   - ./cc-test-reporter format-coverage -t cobertura build/reports/cobertura/coverage.xml # Convert build/reports/cobertura/coverage.xml into coverage/codeclimate.json
   - if [[ "$TRAVIS_TEST_RESULT" == 0 ]]; then ./cc-test-reporter upload-coverage; fi #Upload coverage/codeclimate.json
